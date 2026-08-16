@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money Concepts BTC Terminal",
+  "description": "TradingView-grade Bitcoin and cryptocurrency charting platform with real-time Binance data and Smart Money Concepts (SMC) algorithmic detection engine including BOS, CHoCH, Order Blocks, FVGs, and Liquidity Sweeps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
